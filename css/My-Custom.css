@@ -1,0 +1,33 @@
+.hero {
+    background-image: url(../images/Samart\ gym.png);
+    background-size: cover;
+}
+.color2
+{
+    background: var(--dark-color);
+}
+.img-fluid
+{
+    height: 300px;
+}
+.team-thumb
+{
+    margin-bottom: 29px;
+}
+.Body h1
+{
+    color: #fff;
+    font-weight: 400;
+    text-transform: none;
+}
+.class-thumb
+{
+    margin-bottom: 29px;
+}
+.site-footer 
+{
+    background: var(--dark-color);
+    height: 76px;
+    padding: 1rem 0;
+
+}
